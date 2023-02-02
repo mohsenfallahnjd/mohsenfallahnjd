@@ -3,7 +3,7 @@
 
 I am a front-end developer, who works on his mind 🧠.
 
-I try to learning development for the past 8+ and worked with Javascript for the past 4+ years, so, i'm really addicted to programming an anything about tech 😃.
+I try to learning development for the past 7+ and worked with Javascript for the past 4+ years, so, i'm really addicted to programming an anything about tech 😃.
 
 If you want to know about me, you can visit my [Twitter](https://twitter.com/mohsenfallahnjd).
 
